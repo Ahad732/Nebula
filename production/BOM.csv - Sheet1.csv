@@ -1,0 +1,21 @@
+Designator,Footprint,Value,Quantity,Price,Link
+"C1_2, C1, C10",402,C 1uf,125,0.1,https://robu.in/product/cl05a105kq5nnwc-samsung-electro-mechanics-multilayer-ceramic-capacitors-mlcc-smd-smt-1uf-10-6-3v-x5r-1-0402/
+"C11, C12, C3, C4, C5, C6, C7, C8, C9_2, C9",402,C0.1uf,ALREADY HAVE,---------------------,https://robu.in/product/0402b104j100ct-walsin-smd-multilayer-ceramic-capacitor-general-purpose-0-1-%c2%b5f-10-v-0402-1005-metric-%c2%b1-5-x7r/
+C14,603,10 uF,ALREADY HAVE,---------------------,https://robu.in/product/tcc0603x5r106m100ct-cctc-smt-ceramic-capacitors-0603-x5r-106m10%c2%b5f%c2%b120-rated-voltage10v-thickness0-80mm-tape/
+"C15, C16",402,33pF,30,0.11,https://robu.in/product/0402hq330j500nb-fh-smd-multilayer-ceramic-capacitor-33-pf-50-v-0402-1005-metric-%c2%b1-5-c0g/
+J1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,USB_C_Receptacle_USB2.0_16P,ALREADY HAVE,---------------------,https://www.lcsc.com/product-detail/C393939.html?s_z=n_q_c393939&globalKeyword=c393939
+"J2, J3",PinHeader_1x20_P2.54mm_Vertical,Conn_01x20,2,DNP,
+J4,PinHeader_1x03_P2.54mm_Vertical,Conn_01x03,1,DNP,
+"R1, R2",402,5.1K,100,0.11,https://robu.in/product/rc0402fr-075k1l-yageo-smd-chip-resistor/
+"R3, R4",402,27,35,0.12,https://robu.in/product/0402wgj0270tce-uniohm-royal-ohm-62-5mw-thick-film-resistors-50v%c2%b1100ppm-%e2%84%83-%c2%b15-27%cf%89-0402-chip-resistor-surface-mount-rohs/
+"R5, R6",402,1K,30,0.11,https://robu.in/product/wr04x1001ftl-walsin-62-5mw-thick-film-resistors-50v-%c2%b1100ppm-%e2%84%83-%c2%b11-1k%cf%89-0402-chip-resistor-surface-mount-rohs/
+R7,402,10K,85,0.11,https://robu.in/product/rc0402fr-0710kl-yageo-res-thick-film-0402-10k-ohm-1-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r/
+SW1,Button_Switch_SMD:SW_SPST_PTS810,SW_Push,5,0.99,https://robu.in/product/pts810sjg250smtrlfs-ck-3-2mm-2-5mm-round-button-50ma-standing-paste-4-2mm-spst-400gf-16v-smd-4p3-2x4-2mm-tactile-switches-rohs/
+U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,RP2040,2,1.33,https://robu.in/product/raspberry-pi-rp2040/
+U2,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,APS1604M-3SQRx-ZR,2,4.88,https://www.lioncircuits.com/parts/IS25WP016D-JULE-TR
+U4,SOT-23,MCP1700x-330xxTT,2,1.05,https://www.lioncircuits.com/parts/MCP1700T-3302E%2FTT
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,Crystal_GND24,2,1.23,https://www.lioncircuits.com/parts/ECS-120-20-33-CKM-TR
+,,,Tools Required For Building,22.88,https://robu.in/product/yihua-8858-v-hot-air-station-nozzles-stand/
+,,,PCB Cost + Shipping,9.29,
+,,,Parts Shipping,1.55,
+,,,Total,43.86,
