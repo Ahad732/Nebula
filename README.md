@@ -3,8 +3,13 @@ I have made a devboard with RP 2040. It has 16 mb storage and its just like a ra
 
 Features :
 16 Mbit Storage  
+<<<<<<< HEAD
 Bootsel button
 Uses the popular RP2040 microcontroller  
+=======
+Bootsel and Reset buttons  
+Features the widely used RP2040 microcontroller  
+>>>>>>> a056df5c747cbdcb9cbadf53d1a8eee3ec7a7bc7
 
 |Designator                                |Footprint                                  |Value                      |Quantity                   |Price                |Link                                                                                                                                                                 |
 |------------------------------------------|-------------------------------------------|---------------------------|---------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
