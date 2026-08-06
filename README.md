@@ -10,7 +10,7 @@ Uses the popular RP2040 microcontroller
 ![PCB](/images/PCB-front.png)  
 ![3d](/images/3D-back.png) 
 ![3d](/images/3D-front.png) 
-![schematic](/images/Schematic.png)
+![schematic](/images/schematic.png)
 
 |Designator                                |Footprint                                  |Value                      |Quantity                   |Price                |Link                                                                                                                                                                 |
 |------------------------------------------|-------------------------------------------|---------------------------|---------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
