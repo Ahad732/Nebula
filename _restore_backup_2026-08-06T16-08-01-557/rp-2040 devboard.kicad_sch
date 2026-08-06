@@ -9818,7 +9818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" ""
 			(at 60.96 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11645,7 +11645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" ""
 			(at 48.26 39.37 0)
 			(hide yes)
 			(show_name no)

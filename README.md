@@ -1,10 +1,17 @@
-# Rp2040 Devboard
+# RP2040 Devboard
 I have made a devboard with RP 2040. It has 16 mb storage and its just like a raspberry pi pico but in my design. I had build it off a guide from macondo.I built it to learn hardware. This was my first hardware project for hackclub. It has a usb type C port that is used everywhere nowadays.
 
 Features :
 16 Mbit Storage  
 Bootsel button
 Uses the popular RP2040 microcontroller  
+
+![PCB](/images/PCB-back.png)  
+![PCB](/images/PCB-front.png)  
+![3d](/images/3D-front.png)  
+![3d](/images/3D-back.png)  
+![schematic](/images/schematic.png)
+
 
 |Designator                                |Footprint                                  |Value                      |Quantity                   |Price                |Link                                                                                                                                                                 |
 |------------------------------------------|-------------------------------------------|---------------------------|---------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +37,4 @@ Uses the popular RP2040 microcontroller
 |                                          |                                           |                           |Total                      |43.86                |                                                                                                                                                                     |
 
 
-![PCB](/images/PCB.png)  
-![3d](/images/3D-front.png)  
-![3d](/images/3D-back.png)  
-![schematic](/images/schematic.png)
+
