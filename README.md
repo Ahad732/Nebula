@@ -6,6 +6,8 @@ Features :
 Bootsel button  
 Uses the popular RP2040 microcontroller    
 Can be easily coded for custom projects and inovative ideas  
+Open-source so anyone can use the design and order their board  
+Has 2 leds, a power and a gpio led  
 
 ![PCB](/images/PCB-back.png)  
 ![PCB](/images/PCB-front.png)  
